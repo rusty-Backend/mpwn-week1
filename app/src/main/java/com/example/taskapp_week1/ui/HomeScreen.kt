@@ -80,7 +80,7 @@ fun HomeScreen() {
             onClick = {
                         val newTask = createTask(
                             id = tasks.size + 1,
-                            title = newTaskTitle   // 👈 value comes from TextField
+                            title = newTaskTitle
                         )
                         tasks = addTask(tasks, newTask)
                         newTaskTitle = ""

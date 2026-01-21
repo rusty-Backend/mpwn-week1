@@ -1,7 +1,7 @@
 # mpwn-week1
 mobile-programmin-with-native-technologies Week 1
 
-# Pari asiaa esittely videosta!
+# Pari asiaa esittelyvideosta!
 -En saanut ladattua YouTubeen, koska koitin tehdä koulusähköpostilla käyttäjän ja valita kanavanimeä, YouTube ilmoitti, että olin koittanu liian monta kertaa syöttää kanavanimen joka on jo käytössä -> Koita uudestaan 24h jälkeen. Video löytyy kuitenkin .mp4 tiedostona repositoriosta jonka voi ladata!
 
 -Videossa ei ole ääntä. Jostain syystä ääni nauhoitus oli todella pätkivä ja säröilevä joten jätin videon ilman ääniraitaa. Voit kuvitella päässäsin hyvän monologin seuraamalla hiiren liikkeitä videota katsellessasi. Koitan korjata tämän seuraavaan viikkotehtävään.
